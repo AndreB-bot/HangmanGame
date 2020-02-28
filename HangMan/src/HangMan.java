@@ -1,4 +1,4 @@
-
+//@Author: Andre Bertram.		All rights resevered.
 import java.util.Scanner;
 import java.io.*;
 import java.util.ArrayList;
