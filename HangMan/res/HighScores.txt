@@ -1,0 +1,5 @@
+Ken 950
+bib 750
+pat 500
+Andre 490
+bob 210
